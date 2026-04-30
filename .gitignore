@@ -1,0 +1,21 @@
+# Build output
+build/
+SmartCacheSimulator
+*.o
+*.a
+
+# IDE files
+.vscode/
+.idea/
+*.code-workspace
+*.user
+
+# macOS
+.DS_Store
+
+# CMake generated
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile.cmake
+install_manifest.txt
